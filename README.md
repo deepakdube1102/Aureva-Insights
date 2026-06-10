@@ -1,6 +1,5 @@
 # Aureva Fund Insight Tracker
 
-> 🔗 **Live URL**: [https://aureva-insights.vercel.app](https://aureva-insights.vercel.app) *(update after deployment)*
 
 A full-stack MERN application to search Indian Mutual Funds, manage a personal watchlist, and view NAV performance charts.
 
